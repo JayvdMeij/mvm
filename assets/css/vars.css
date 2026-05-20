@@ -9,11 +9,16 @@
 
   /* Typography */
   --font-main: 'Inter', sans-serif;
-  --font-size-sm: 0.875rem;
-  --font-size-base: 1rem;
-  --font-size-lg: 1.25rem;
-  --font-size-xl: 2rem;
-  --font-size-2xl: 3.5rem;
+--font-size-h1: 6rem;
+    --font-size-h2: 4rem;
+    --font-size-h3: 3rem;
+    --font-size-h4: 2.5rem;
+    --font-size-h5: 2rem;
+    --font-size-h6: 1.5rem;
+    --font-size-textbig: 18px;
+    --font-size-textnormal: 16px;
+    --font-size-textsmall: 14px;
+
 
   /* Spacing */
   --space-xs: 0.5rem;
