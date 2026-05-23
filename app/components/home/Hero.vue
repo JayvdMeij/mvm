@@ -5,7 +5,7 @@
             <p class="text-normal">
                 homepage
             </p>
-            <MainButton href="/about">Learn more</MainButton>
+            <buttonMain href="/about">Learn more</buttonMain>
         </div>
     </section>
 </template>
