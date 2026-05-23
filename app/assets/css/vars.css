@@ -1,33 +1,30 @@
 :root {
   /* Colors */
-  --color-bg: #0f0f0f;
-  --color-surface: #1a1a1a;
-  --color-text: #f0f0f0;
-  --color-text-muted: #888;
-  --color-accent: #6c63ff;
-  --color-accent-hover: #574fd6;
+  --donker-blauw: #0f172a;
+  --text-kleur: #64748b;
+  --wit: #ffffff;
+  --off-white-grijs: #e2e8f0;
+  --off-white-wit: #eef2ff;
+  --off-white-pink: #faf5ff;
+  --bg-wit: #fafafc;
+  --violet: #c7d2fe;
+  --rozig: #e9d5ff;
+  --border-color:rgba(15, 23, 42, 0.26);
 
   /* Typography */
   --font-main: 'Inter', sans-serif;
---font-size-h1: 6rem;
-    --font-size-h2: 4rem;
-    --font-size-h3: 3rem;
-    --font-size-h4: 2.5rem;
-    --font-size-h5: 2rem;
-    --font-size-h6: 1.5rem;
-    --font-size-textbig: 18px;
-    --font-size-textnormal: 16px;
-    --font-size-textsmall: 14px;
+  --font-size-h1: 6rem;
+  --font-size-h2: 4rem;
+  --font-size-h3: 3rem;
+  --font-size-h4: 2.5rem;
+  --font-size-h5: 2rem;
+  --font-size-h6: 1.5rem;
+  --font-size-textbig: 18px;
+  --font-size-textnormal: 16px;
+  --font-size-textsmall: 14px;
 
 
   /* Spacing */
-  --space-xs: 0.5rem;
-  --space-sm: 1rem;
-  --space-md: 2rem;
-  --space-lg: 4rem;
-  --space-xl: 8rem;
+  --padding-container: 0 6rem;
 
-  /* Layout */
-  --max-width: 900px;
-  --radius: 8px;
 }

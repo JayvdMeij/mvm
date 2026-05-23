@@ -1,4 +1,4 @@
-*, *::before, *::after {
+ *, *::before, *::after {
   margin: 0;
   padding: 0;
 }
@@ -8,11 +8,7 @@ html {
 }
 
 body {
-  background: var(--color-bg);
-  color: var(--color-text);
-  font-family: var(--font-main);
-  font-size: var(--font-size-base);
-  line-height: 1.6;
+  background: var(--bg-wit);
   -webkit-font-smoothing: antialiased;
 }
 
@@ -28,4 +24,8 @@ a {
 
 ul, ol {
   list-style: none;
+}
+
+h1, h2, h3, h4, h5, h6, p, a, li, ul, ol, span{
+  font-family: var(--font-main);
 }

@@ -1,44 +1,45 @@
 h1{
-    font-family: var(--font-main);
     font-size: var(--font-size-h1);
+    color: var(--donker-blauw);
 }
 
 h2{
-    font-family: var(--font-main);
     font-size: var(--font-size-h2);
+    color: var(--donker-blauw);
 }
 
 h3{
-    font-family: var(--font-main);
     font-size: var(--font-size-h3);
+    color: var(--donker-blauw);
 }
 
 h4{
-    font-family: var(--font-main);
     font-size: var(--font-size-h4);
+    color: var(--donker-blauw);
 }
 
 h5{
-    font-family: var(--font-main);
     font-size: var(--font-size-h5);
+    color: var(--donker-blauw);
 }
 
 h6{
-    font-family: var(--font-main);
     font-size: var(--font-size-h6);
+    color: var(--donker-blauw);
+}
+
+p{
+    color: var(--text-kleur);
 }
 
 .text-big{
-    font-family: var(--font-main);
     font-size: var(--font-size-textbig);
 }
 
 .text-normal{
-    font-family: var(--font-main);
     font-size: var(--font-size-textnormal);
 }
 
 .text-small{
-    font-family: var(--font-main);
     font-size: var(--font-size-textsmall);
 }
