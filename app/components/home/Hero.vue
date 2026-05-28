@@ -5,7 +5,10 @@
             <p class="text-normal">
                 homepage
             </p>
+            <div>
             <buttonMain href="/about">Learn more</buttonMain>
+            <buttonWhite href="/contact">Contact us</buttonWhite>
+            </div>
         </div>
     </section>
 </template>

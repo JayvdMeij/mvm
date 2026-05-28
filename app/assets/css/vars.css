@@ -12,7 +12,7 @@
   --border-color:rgba(15, 23, 42, 0.26);
 
   /* Typography */
-  --font-main: 'Inter', sans-serif;
+  --font-main: 'Inter';
   --font-size-h1: 6rem;
   --font-size-h2: 4rem;
   --font-size-h3: 3rem;

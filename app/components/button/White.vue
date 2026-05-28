@@ -16,8 +16,9 @@ defineProps({
 <style scoped>
 a {
   display: inline-block;
-  color: var(--off-white-wit);
-  background-color: var(--donker-blauw);
+
+  color: var(--donker-blauw);
+  background-color: var(--wit);
   padding: 8px 30px;
   transition: transform 0.2s ease-in-out;
   border-radius: 400px;

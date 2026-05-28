@@ -1,3 +1,4 @@
 <template>
     <homeHero />
+    <homeExpertise />
 </template>
