@@ -6,8 +6,8 @@
                 homepage
             </p>
             <div>
-            <buttonMain href="/about">Learn more</buttonMain>
-            <buttonWhite href="/contact">Contact us</buttonWhite>
+            <baseButton href="/about" variant="main">Learn more</baseButton>
+            <baseButton href="/contact" variant="white">Contact us</baseButton>
             </div>
         </div>
     </section>

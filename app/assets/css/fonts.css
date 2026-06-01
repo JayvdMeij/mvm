@@ -41,14 +41,11 @@ h6{
 
 p{
     color: var(--text-kleur);
+    font-size: var(--font-size-textnormal);
 }
 
 .text-big{
     font-size: var(--font-size-textbig);
-}
-
-.text-normal{
-    font-size: var(--font-size-textnormal);
 }
 
 .text-small{
