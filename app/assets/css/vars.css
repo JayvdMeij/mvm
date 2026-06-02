@@ -19,12 +19,26 @@
   --font-size-h4: 2.5rem;
   --font-size-h5: 2rem;
   --font-size-h6: 1.5rem;
-  --font-size-textbig: 18px;
+  --font-size-textbig: 20px;
   --font-size-textnormal: 16px;
   --font-size-textsmall: 14px;
 
+  --border: 1px solid var(--off-white-grijs);
+  --border-radius: 1rem;
 
   /* Spacing */
-  --padding-container: 0 6rem;
+  --padding-container: 6rem;
+
+  --padding1: 1rem;
+  --padding2: 1rem;
+  --padding3: 1rem;
+  --padding4: 1rem;
+  --padding1: 1rem;
+  --padding1: 1rem;
+
+  --gap1: 1rem;
+  --gap2: 2rem;
+  --gap3: 3rem;
+  --gap4: 4rem;
 
 }
