@@ -1,3 +1,3 @@
 <template>
-    <overmeijHero />
+    <aboutHero />
 </template>

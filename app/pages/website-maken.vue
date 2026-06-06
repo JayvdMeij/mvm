@@ -1,6 +1,4 @@
 <template>
-    <websitemakenHero />
-    <websitemakenUsps />
-    <websitemakenPakket />
-    <websitemakenOfferte />
+    <serviceUsps />
+    <servicePakket />
 </template>
