@@ -23,7 +23,6 @@ defineProps({
 a {
     display: inline-block;
 
-    color: var(--donker-blauw);
     background-color: var(--wit);
     padding: 10px 30px;
     transition: transform 0.2s ease-in-out;
@@ -35,13 +34,12 @@ a {
 }
 
     .btn--main {
-        color: var(--off-white-wit);
-        background-color: var(--donker-blauw);
+        background-color: transparent;
+        border: var(--border);
     }
 
     .btn--white {
-        color: var(--donker-blauw);
-        background-color: var(--wit);
+
     }
 
 </style>

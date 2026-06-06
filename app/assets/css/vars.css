@@ -1,18 +1,27 @@
 :root {
   /* Colors */
-  --donker-blauw: #0f172a;
-  --text-kleur: #64748b;
+  --heading-kleur: #f5f4f0;
+  --text-kleur: #6b6b70;
+  --a-color: #6b6b70;
+  --color1: #FF4D1A;
+  --color1-5:#FF8C69;
+  --color2: #6C63FF;
+  --color2-5: #A09BFF;
+  --color3: #0FA3B1;
+  --color3-5: #5ECBD8;
+  --color4: #C8A96E;
+  --color4-5: #E5C98A;
+  --color5: #2D6A4F;
+  --color5-5: #52B788;
   --wit: #ffffff;
-  --off-white-grijs: #e2e8f0;
-  --off-white-wit: #eef2ff;
-  --off-white-pink: #faf5ff;
-  --bg-wit: #fafafc;
-  --violet: #c7d2fe;
-  --rozig: #e9d5ff;
-  --border-color:rgba(15, 23, 42, 0.26);
+  --zwart: #000;
+  --bg: #0a0a0b;
+  --border-color:#ffffff14;
 
   /* Typography */
-  --font-main: 'Inter';
+  --font-heading: 'Fraunces';
+  --font-body: 'JetBrainsMono';
+  --font-accent: 'Inter';
   --font-size-h1: 6rem;
   --font-size-h2: 4rem;
   --font-size-h3: 3rem;
@@ -23,7 +32,7 @@
   --font-size-textnormal: 16px;
   --font-size-textsmall: 14px;
 
-  --border: 1px solid var(--off-white-grijs);
+  --border: 1px solid var(--border-color);
   --border-radius: 1rem;
 
   /* Spacing */

@@ -8,7 +8,7 @@ html {
 }
 
 body {
-  background: var(--bg-wit);
+  background: var(--bg);
   -webkit-font-smoothing: antialiased;
 }
 
@@ -18,14 +18,9 @@ img, video {
 }
 
 a {
-  color: inherit;
   text-decoration: none;
 }
 
 ul, ol {
   list-style: none;
-}
-
-h1, h2, h3, h4, h5, h6, p, a, li, ul, ol, span{
-  font-family: var(--font-main);
 }
