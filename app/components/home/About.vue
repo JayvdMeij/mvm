@@ -2,10 +2,10 @@
     <section>
         <div class="container">
             <div>
-                <h2>about</h2>
+                <h2>04 - about</h2>
             </div>
             <div>
-                <p>grote tekst en veel</p>
+                <p>Webelievethebestbrandsarefeltbeforetheyareunderstood.Theyenteraroombeforeanyonedoes,andlingerlongaftereveryonehasleft.Webuildthosebrands—withcare,precision,andastubbornrefusaltosettleforordinary.</p>
                 <a href="#">read more</a>
             </div>
         </div>

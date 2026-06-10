@@ -43,32 +43,32 @@ a{
 
 h1{
     font-size: var(--font-size-h1);
-    font-weight: 400;
+    font-weight: 300;
 }
 
 h2{
     font-size: var(--font-size-h2);
-    font-weight: 400;
+    font-weight: 300;
 }
 
 h3{
     font-size: var(--font-size-h3);
-    font-weight: 400;
+    font-weight: 300;
 }
 
 h4{
     font-size: var(--font-size-h4);
-    font-weight: 400;
+    font-weight: 300;
 }
 
 h5{
     font-size: var(--font-size-h5);
-    font-weight: 400;
+    font-weight: 300;
 }
 
 h6{
     font-size: var(--font-size-h6);
-    font-weight: 400;
+    font-weight: 300;
 }
 
 p{
@@ -83,4 +83,12 @@ p{
 
 .text-small{
     font-size: var(--font-size-textsmall);
+}
+
+.top-head{
+    font-family: var(--font-body);
+    text-transform: uppercase;
+    color: var(--text-kleur);
+    font-size: var(--font-size-textsmall);
+    font-weight: 400;
 }

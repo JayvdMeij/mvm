@@ -19,3 +19,15 @@
         </div>
     </section>
 </template>
+
+<style scoped>
+.container{
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+ul{
+    display: flex;
+    flex-direction: row;
+}
+
+</style>

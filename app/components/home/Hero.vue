@@ -19,8 +19,9 @@
 <style scoped>
 section {
     position: relative;
-    height: 100vh;
+    height: 90vh;
     overflow: hidden;
+    align-content: flex-end;
 }
 
 /* Each blob is an absolutely-positioned child element */

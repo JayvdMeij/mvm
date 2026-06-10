@@ -3,7 +3,7 @@
         <div class="container">
             <div>
                 <div>
-                    <h2>Projecten</h2>
+                    <h2>03- Work</h2>
                     <p>Een kijkje in mijn werk</p>
                 </div>
                 <div>
@@ -12,8 +12,13 @@
             </div>
             <div class="grid">
                 <div class="card project-1">
+                    <img src="../assets/images/check.svg" alt="img">
                     <p>Website</p>
                     <h3>Raamfolie</h3>
+                    <div>
+                        <p>tag1</p>
+                        <p>tag1</p>
+                    </div>
                 </div>
 
                 <div class="card-big project-2">
