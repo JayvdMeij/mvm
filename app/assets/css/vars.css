@@ -1,18 +1,18 @@
 :root {
   /* Colors */
-  --heading-kleur: #f5f4f0;
-  --text-kleur: #6b6b70;
+  --heading-kleur: #ffffff;
+  --text-kleur: #a8a8b0;
   --a-color: #6b6b70;
-  --color1: rgba(255, 76, 26, 0.2);
-  --color1-5:rgba(255, 140, 105, 0.1);
-  --color2: rgba(108, 99, 255, 0.2);
-  --color2-5: rgba(160, 155, 255, 0.1);
-  --color3: rgba(15, 163, 177, 0.2);
-  --color3-5: rgba(94, 203, 216, 0.1);
-  --color4: rgba(200, 169, 110, 0.2);
-  --color4-5: rgba(229, 201, 138, 0.1);
-  --color5: rgba(45, 106, 79, 0.2);
-  --color5-5: rgba(82, 183, 136, 0.1);
+  --color1: #ff4c1a;
+  --color1-5:#ff8c69;
+  --color2: #6c63ff;
+  --color2-5: #a09bff;
+  --color3: #0fa3b1;
+  --color3-5: #5ecbd8;
+  --color4: #c8a96e;
+  --color4-5: #e5ca8a;
+  --color5: #2d6a4f;
+  --color5-5: #52b788;
   --wit: #ffffff;
   --zwart: #000;
   --bg: #0a0a0b;
@@ -22,9 +22,9 @@
   --font-heading: 'Fraunces';
   --font-body: 'JetBrainsMono';
   --font-accent: 'Inter';
-  --font-size-h1: 6rem;
-  --font-size-h2: 4rem;
-  --font-size-h3: 3rem;
+  --font-size-h1: 10rem;
+  --font-size-h2: 6rem;
+  --font-size-h3: 4rem;
   --font-size-h4: 2.5rem;
   --font-size-h5: 2rem;
   --font-size-h6: 1.5rem;
